@@ -1,0 +1,12 @@
+# Exclude specific directories
+aci-bench-2023/
+AutoGPTQ/
+gemma_instruct_medtr_2b-hf/
+Gemma-medtr-2b-sft-v2-hf/
+llama.cpp/
+MedTrChat/
+MTChat/
+
+# Exclude files
+*.gguf
+*.docx
